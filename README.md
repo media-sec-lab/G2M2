@@ -7,13 +7,11 @@ This repo is the offical implementation of "Learning General Gaussian Mixture Mo
 Network architecture of G2M2 is the exaclty sames as in the paper.  
 
 
-###Installation
+### Installation
 The code requires Python3.7 and Tensorflow 1.14
  
-###Usage  
+### Usage  
 ```
 python G2M2.py
 ```
 
-
-```
